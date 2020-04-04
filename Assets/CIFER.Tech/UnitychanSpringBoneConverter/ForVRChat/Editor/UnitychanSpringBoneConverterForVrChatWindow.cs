@@ -1,7 +1,6 @@
 using System;
 using UnityEditor;
 using UnityEngine;
-using VRM;
 
 namespace CIFER.Tech.UnitychanSpringBoneConverter.ForVRChat
 {
